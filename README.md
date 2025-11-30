@@ -1,4 +1,10 @@
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/StephaneDelcroix/StephaneDelcroix/master/sdx_mono.png" align="right" />
+
+### Hi! 👋 I'm Stéphane 👨‍💻
+
+I'm an open-source software engineer. I'm passionate about languages, parsers and formats. I'm currently working on continuously bringing joy to mobile developers: [dotnet MAUI](https://github.com/dotnet/maui) (né [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)).
+
 
 <!--
 **Xamarinso/Xamarinso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
